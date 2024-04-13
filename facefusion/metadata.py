@@ -1,11 +1,11 @@
 METADATA =\
 {
-	'name': 'FaceFusion',
+	'name': 'Web3Fusion',
 	'description': 'Next generation face swapper and enhancer',
 	'version': '2.5.1',
 	'license': 'MIT',
 	'author': 'Henry Ruhs',
-	'url': 'https://facefusion.io'
+	'url': 'https://web3fusion.net'
 }
 
 
